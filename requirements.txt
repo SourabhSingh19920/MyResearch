@@ -3,3 +3,5 @@ langchain
 langchain-core
 langchain-community
 langchain-ollama
+duckduckgo-search
+ddgs
