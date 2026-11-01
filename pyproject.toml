@@ -11,7 +11,10 @@ dependencies = [
     "langchain-community>=0.4.2",
     "langchain-core>=1.7.3",
     "langchain-ollama>=1.1.0",
+    "mediawikiapi>=1.3",
     "streamlit>=1.66.1",
+    "wikibase-rest-api-client>=0.2.5",
+    "wikipedia>=1.4.0",
 ]
 
 [dependency-groups]
