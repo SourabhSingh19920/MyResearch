@@ -1,0 +1,6 @@
+/temp
+/.venv
+.python-version
+/download
+*/__pycache__
+error.txt
